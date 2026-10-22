@@ -1,10 +1,12 @@
 # Emanuel Andrade
 
-### Estudante de Engenharia de Software · Estácio · 3º semestre
+### Estudante de Engenharia de Software
 
 Fortaleza, Ceará · [Portfólio](https://emanuelb7-andra.github.io/) · [Contato](mailto:emanuelbrasil1999@gmail.com)
 
-Estou construindo meu portfólio com projetos web voltados à educação, comunicação e organização de processos. Este espaço reúne aplicações e minha evolução ao longo da graduação.
+## Resumo profissional
+
+Sou estudante de Engenharia de Software, com interesse em desenvolvimento web e na criação de soluções úteis para o dia a dia. Meu portfólio reúne projetos de educação, comunicação e organização de processos, com HTML, CSS e JavaScript. Busco aprimorar meus conhecimentos por meio da prática e do aprendizado contínuo.
 
 ## Projetos em destaque
 
@@ -21,8 +23,7 @@ HTML · CSS · JavaScript · GitHub Pages
 
 ## Formação
 
-**Engenharia de Software · Estácio**  
-Graduação em andamento · 3º semestre.
+**Engenharia de Software — graduação em andamento.**
 
 ## Contato
 
